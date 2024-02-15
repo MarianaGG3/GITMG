@@ -13,7 +13,7 @@ class Persona():
         self.__cedula = h
     def asignarGenero(self,h):
         self.__genero = h
-
+  
     # getters 
     def verNombre(self): 
         return self.__nombre
